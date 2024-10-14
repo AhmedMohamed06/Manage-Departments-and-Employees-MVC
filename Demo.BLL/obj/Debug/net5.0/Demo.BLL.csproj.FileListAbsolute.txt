@@ -1,0 +1,30 @@
+F:\Route\Route C42\Cycle42\05 MVC\G03\Session 03\Demo.MVC.Group03\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+F:\Route\Route C42\Cycle42\05 MVC\G03\Session 03\Demo.MVC.Group03\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+F:\Route\Route C42\Cycle42\05 MVC\G03\Session 03\Demo.MVC.Group03\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+F:\Route\Route C42\Cycle42\05 MVC\G03\Session 03\Demo.MVC.Group03\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+F:\Route\Route C42\Cycle42\05 MVC\G03\Session 03\Demo.MVC.Group03\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+F:\Route\Route C42\Cycle42\05 MVC\G03\Session 03\Demo.MVC.Group03\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+F:\Route\Route C42\Cycle42\05 MVC\G03\Session 03\Demo.MVC.Group03\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Route\Route C42\Cycle42\05 MVC\G03\Session 03\Demo.MVC.Group03\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+F:\Route\Route C42\Cycle42\05 MVC\G03\Session 03\Demo.MVC.Group03\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+F:\Route\Route C42\Cycle42\05 MVC\G03\Session 03\Demo.MVC.Group03\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+F:\Route\Route C42\Cycle42\05 MVC\G03\Session 03\Demo.MVC.Group03\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.Up2Date
+F:\Route\Route C42\Cycle42\05 MVC\G03\Session 03\Demo.MVC.Group03\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+F:\Route\Route C42\Cycle42\05 MVC\G03\Session 03\Demo.MVC.Group03\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+F:\Route\Route C42\Cycle42\05 MVC\G03\Session 03\Demo.MVC.Group03\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+F:\Route\Route C42\Cycle42\05 MVC\G03\Session 03\Demo.MVC.Group03\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
+D:\Asp.Net\Eng_Rana Hatem\05 MVC\Demo.MVC.Group03\Demo.MVC.Group03\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+D:\Asp.Net\Eng_Rana Hatem\05 MVC\Demo.MVC.Group03\Demo.MVC.Group03\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+D:\Asp.Net\Eng_Rana Hatem\05 MVC\Demo.MVC.Group03\Demo.MVC.Group03\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+D:\Asp.Net\Eng_Rana Hatem\05 MVC\Demo.MVC.Group03\Demo.MVC.Group03\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+D:\Asp.Net\Eng_Rana Hatem\05 MVC\Demo.MVC.Group03\Demo.MVC.Group03\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+D:\Asp.Net\Eng_Rana Hatem\05 MVC\Demo.MVC.Group03\Demo.MVC.Group03\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+D:\Asp.Net\Eng_Rana Hatem\05 MVC\Demo.MVC.Group03\Demo.MVC.Group03\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.Net\Eng_Rana Hatem\05 MVC\Demo.MVC.Group03\Demo.MVC.Group03\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+D:\Asp.Net\Eng_Rana Hatem\05 MVC\Demo.MVC.Group03\Demo.MVC.Group03\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+D:\Asp.Net\Eng_Rana Hatem\05 MVC\Demo.MVC.Group03\Demo.MVC.Group03\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+D:\Asp.Net\Eng_Rana Hatem\05 MVC\Demo.MVC.Group03\Demo.MVC.Group03\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.Up2Date
+D:\Asp.Net\Eng_Rana Hatem\05 MVC\Demo.MVC.Group03\Demo.MVC.Group03\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+D:\Asp.Net\Eng_Rana Hatem\05 MVC\Demo.MVC.Group03\Demo.MVC.Group03\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+D:\Asp.Net\Eng_Rana Hatem\05 MVC\Demo.MVC.Group03\Demo.MVC.Group03\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+D:\Asp.Net\Eng_Rana Hatem\05 MVC\Demo.MVC.Group03\Demo.MVC.Group03\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
